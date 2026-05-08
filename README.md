@@ -75,6 +75,14 @@ Currently exploring: Software Architecture · AI/ML · Startups · Product Minds
 />
 <img 
     align="left" 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="SASS" 
     title="SASS"
     width="40px" 
@@ -109,7 +117,27 @@ align="left"
     title="Mysql"
     width="40px" 
     style="padding-right: 15px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    />
+<img
+align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="40px" 
+    style="padding-right: 15px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    />
+<img
+align="left" 
+    alt="Intellij" 
+    title="Intellij"
+    width="40px" 
+    style="padding-right: 15px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+    />
+ 
+
+          
           
           
 
