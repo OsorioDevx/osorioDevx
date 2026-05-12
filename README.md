@@ -6,7 +6,7 @@ Computer Engineering Student · Software Engineering Intern at Venttos Electroni
 ### 🎯Current position
 
 Currently building a strong backend engineering profile with Java and Spring Boot.
-Transitioning from hands-on experience in industrial automation (Python, TCP integrations, MES systems) and Node.js backend development (CORA App — SSP-AM) toward a professional Java backend stack.
+Transitioning from hands-on experience in industrial automation (Python, TCP integrations, MES systems) and Node.js backend development (CORA App -- SSP-AM) toward a professional Java backend stack.
 
 
 ### 🛠️My preferred tech stack
