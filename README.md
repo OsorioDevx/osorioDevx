@@ -1,15 +1,31 @@
-# 🧑🏼‍💻 Matheus Osorio
+# 👋 Matheus Osório
 
-**`Full-stack developer`**
+**`Backend Developer Júnior`** | Java · Python · Node.js  
+Computer Engineering Student · Software Engineering Intern at Venttos Electronics
 
-My name is Matheus Henrique Gama Osório, I am 23 years old, and I´m from Amazonas, Brazil.
-Computer Engineering student | I don´t just write code, I build solutions.  
+### 🎯Current position
+
+Currently building a strong backend engineering profile with Java and Spring Boot.
+Transitioning from hands-on experience in industrial automation (Python, TCP integrations, MES systems) and Node.js backend development (CORA App — SSP-AM) toward a professional Java backend stack.
+
+Buscando vaga **júnior backend remota** no Brasil.
+
+### 🛠️My preferred tech stack
+
+**Backend:** Java · Python · Node.js · APIs REST  
+**Databases:** PostgreSQL · MySQL · SQL Server  
+**Tools & Technologies:** Git · GitHub · Linux  
+**Industrial software systems:** TOTVS/SFC · ZPL · n8n  
+
+**Currently in development:** Spring Boot · Spring Data JPA · JUnit · Docker · Testcontainers
+
+
+I don´t just write code, I build solutions.  
 
 Passionate about technology since the age of 12 and driven by real-world impact. I believe technology has the power to change lifes.   
 
 My focus goes beyond development. As a computer engineer, I believe this is part of our responsability: thinking about products, market fit, scalability, and the people behind every system.  
 
-Currently exploring: Software Architecture · AI/ML · Startups · Product Mindset
 
 <p align="left">
     <a href="https://github.com/OsorioDevx?tab=repositories&sort=stargazers">
