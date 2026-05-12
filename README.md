@@ -42,11 +42,6 @@ I don´t just write code, I build solutions.
 ---
 
 
-Passionate about technology since the age of 12 and driven by real-world impact. I believe technology has the power to change lifes.   
-
-My focus goes beyond development. As a computer engineer, I believe this is part of our responsability: thinking about products, market fit, scalability, and the people behind every system.  
-
-
 <p align="left">
     <a href="https://github.com/OsorioDevx?tab=repositories&sort=stargazers">
         <img 
