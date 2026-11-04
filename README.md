@@ -1,7 +1,7 @@
 # 👋 Matheus Osório
 
 **`Backend Developer Júnior`** | Java · Python · Node.js  
-Computer Engineering Student · Software Engineering Intern at Venttos Electronics
+Computer Engineering Student
 
 ---
 
@@ -15,7 +15,7 @@ Transitioning from hands-on experience in industrial automation (Python, TCP int
 ### 🛠️My preferred tech stack
 
 **Backend:** Java · Python · Node.js · APIs REST  
-**Databases:** PostgreSQL · MySQL · SQL Server  
+**Databases:** SQL Server · SQLite  
 **Tools & Technologies:** Git · GitHub · Linux  
 **Industrial software systems:** TOTVS/SFC · ZPL · n8n  
 
@@ -25,8 +25,6 @@ Transitioning from hands-on experience in industrial automation (Python, TCP int
 
 ### 📌 Featured Projects
 
-- **[kantan-bank-api]** *(currently in development)* -- RESTful banking API built with Spring Boot, JPA, PostgreSQL, JWT authentication, automated testing, and public deployment. A more advanced evolution of the `kantan_bank` console project.
-  
 - **[kantan_bank](https://github.com/OsorioDevx/kantan_bank)** -- Console banking system built with vanilla Java. Practical Object-Oriented Programming project covering inheritance, polymorphism, interfaces, and abstract classes.
 
 - **[organiflow](https://github.com/OsorioDevx/organiflow)** -- Python automation script for automatic file and directory organization.
@@ -37,7 +35,7 @@ I don´t just write code, I build solutions.
 ### 📫 Contact
 
 - LinkedIn: [in/matheus0sorio](https://www.linkedin.com/in/matheus0sorio/)
-- Email: henrique.busn@gmail.com
+- Email: matheushenriquegama.mh@gmail.com
 
 ---
 
